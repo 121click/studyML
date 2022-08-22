@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
-        "sklearn"
+        "DESCR",
+        "scipy",
+        "seaborn",
+        "sklearn",
+        "statsmodels"
     ]
 }
